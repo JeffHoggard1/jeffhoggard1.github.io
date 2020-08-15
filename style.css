@@ -20,14 +20,9 @@ div {
 
 .head {
   font-size:25px;
+  padding:0;
+  margin:0;
 }
-
-.container {
-  display: flex;
-  text-alight: center;
-}
-
-div id
 
 .main {
   padding-left: 30px;
@@ -41,7 +36,7 @@ h1 {
 
 h2 {
   font-size:30px;
-  text-align: center;
+  text-align: left;
 }  
 
 h4 {
