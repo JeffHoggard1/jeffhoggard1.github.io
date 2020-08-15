@@ -18,6 +18,10 @@ div {
   position: fixed;
 }
 
+.head {
+  font-size:25px;
+}
+
 .container {
   display: flex;
   text-alight: center;
