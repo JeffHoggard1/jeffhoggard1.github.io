@@ -9,6 +9,13 @@ div {
   padding-right: 30px;
   height: 100%;
   width: 100%;
+  border-radius: 5px;
+}
+
+#header {
+  height: 40px;
+  width: 100%;
+  position: fixed;
 }
 
 .container {
