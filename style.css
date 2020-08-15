@@ -24,7 +24,6 @@ div {
   font-size:25px;
   padding:0;
   margin:0;
-  dispay:inline-block;
   float:left;
 }
 
@@ -39,7 +38,6 @@ h1 {
   padding:0;
   margin:0;
   float:0;
-  display:inline-block;
 }
 
 h2 {
@@ -48,7 +46,6 @@ h2 {
   padding:0;
   margin:0;
   float:0;
-  display:inline-block;
 }  
 
 h4 {
