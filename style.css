@@ -26,6 +26,11 @@ div {
   float:left;
 }
 
+p {
+  text-align: left;
+  color: red;
+}
+
 h1 {
   font-size: 30px;
   text-align: center;
