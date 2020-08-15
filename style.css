@@ -15,8 +15,8 @@ div {
   height: 40px;
   width: 100%;
   position: left;
-  padding:0;
-  marging:0;
+  padding:5;
+  marging:5;
 }
 
 .head {
