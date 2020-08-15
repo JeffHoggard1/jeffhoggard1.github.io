@@ -13,6 +13,7 @@ div {
 
 .container {
   display: flex;
+  text-alight: center;
 }
 
 div id
