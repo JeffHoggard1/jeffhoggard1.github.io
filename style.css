@@ -23,7 +23,7 @@ div {
   font-size:25px;
   padding:5;
   margin:5;
-  float:left;
+  text-align: left;
 }
 
 p {
