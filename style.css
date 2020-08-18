@@ -4,6 +4,13 @@ html, body {
   height: 100%;
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 div {
   width: auto;
   height: auto;
